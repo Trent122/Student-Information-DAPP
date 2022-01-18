@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>Moralis</title>
+    <script src="https://cdn.jsdeliver.net/npm/web3@latest/dist/web3.min,js"></script>
+    <script src="https://npmcdn.com/moralis@latest/dist/moralis.js"></script>
+  </head>
+
+  <body>
+    <h1>Moralis</h1>
+
+    <button oneclick="login()" id="login">Login</button>
+
+    <script>
+      const serverUrl = "https://iglemelcs98c.usemoralis.com:2053/server";
+      const appId = "Xj2l4O1crw392kUit93yKszz2H0uTlVBN8KCD9qC";
+      Moralis.start({ serverUrl, appId });
+
+      async function login() {
+        await Moralis.authenticate()
+      }
+    </script>
+  </body>
+
+
+</html>
