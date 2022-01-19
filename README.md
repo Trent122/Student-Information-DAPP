@@ -1,8 +1,8 @@
 # BlockChain-Council Student Dapp Register
 
 #### Student information DApp application
-It is a simple application that lets students interact with their club, sports, and career path initiatives (Like a school consular).
-Provided in this repo is a simple HTML site working with CLI-bootstrap,metamask,and remixIDE for testing our smart contract.
+ A simple application that allows students for interaction with their clubs, sports, and career path initiatives (Like a school consular).
+Provided in this repo is a simple HTML site working with CLI-bootstrap,Ropsten test network metamask,and remixIDE for testing our smart contracts 
 
 
 
