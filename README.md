@@ -1,4 +1,4 @@
-# BlockChain-Council Student Dapp Register
+# Student Dapp Register
 
 #### Student information DApp application
  A simple application that allows students for interaction with their clubs, sports, and career path initiatives (Like a school consular).
