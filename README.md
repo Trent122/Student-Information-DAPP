@@ -2,7 +2,7 @@
 
 #### Student information DApp application
  A simple application that allows students for interaction with their clubs, sports, and career path initiatives (Like a school consular).
-Provided in this repo is a simple HTML site working with CLI-bootstrap,Ropsten test network metamask,and remixIDE for testing our smart contracts..
+Provided in this repo is a simple HTML site working with CLI-bootstrap,Ropsten test network metamask,and remixIDE for testing our smart contracts.
 
 
 
