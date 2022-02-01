@@ -4,6 +4,16 @@
  A simple application that allows students for interaction with their clubs, sports, and career path initiatives (Like a school consular).
 Provided in this repo is a simple HTML site working with CLI-bootstrap,Ropsten test network metamask,and remixIDE for testing our smart contracts.
 
+Running
+The Web3 RPC location will be picked up from the truffle.js file.
+
+Clone this repo
+npm install
+Make sure testrpc is running on its default port. Then:
+npm run start - Starts the development server
+npm run build - Generates a build
+truffle test - Run the rest suite (there are no tests at the moment)
+If you npm run start, the app will be available at http://localhost:3001.
 
 
 ## MetaMask Confirmation With Test-Net
