@@ -9,17 +9,17 @@ The Web3 RPC location will be picked up from the truffle.js file.
 
 Clone this repo
 
-1.) npm install
+1.) ```npm install```
 
-2.) Make sure testrpc is running on its default port. Then:
+2.) ```Make sure testrpc is running on its default port 7475```
 
-3.) npm run start - Starts the development server
+3.) ```Then-npm run start - Starts the development server```
 
-4.) npm run build - Generates a build
+4.) ```npm run build - Generates a build```
 
-5.) truffle test - Run the rest suite (there are no tests at the moment)
+5.) ```truffle test - Run the rest suite (there are no tests at the moment)```
 
-6.) If you npm run start, the app will be available at http://localhost:3001.
+6.) ```If you npm run start, the app will be available at http://localhost:3001.```
 
 
 ## MetaMask Confirmation With Test-Net
